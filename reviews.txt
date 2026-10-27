@@ -1,0 +1,14 @@
+Harry Potter and the Sorcerer's Stone,Taylor,5.0,One of my favorite fantasy books.
+The School for Good and Evil,Xandra,4.0,Fun and creative fantasy story.
+Dune,Taylor,4.0,Intricate sci-fi story.
+The Ender's Game,Xandra,3.95,Fast paced.
+Pride and Prejudice,Taylor,4.9,Timeless classic about love and social expectations.
+The Notebook,Xandra,4.7,Heartwarming story about love and loss.
+Diary of a Wimpy Kid,Taylor,4.0,Hilarious and relatable.
+Good Omens,Xandra,4.5,Hilarious and clever.
+The Fault in Our Stars,Taylor,4.7,Heartwarming story about love and loss.
+A Man Called Ove,Xandra,4.6,Sweet and sad.
+IT,Taylor,4.7,What the heck, in a good way.
+The Shining,Xandra,4.5,Creepy and well-written.
+The Secret Garden,Xandra,4.5,A very heartfelt and nostalgic story
+The Metamorphosis,Xandra,5.0,Scary and weird!

@@ -1,0 +1,14 @@
+A Man Called Ove,Fredrik Backman,Drama,4.4
+Diary of a Wimpy Kid,Jeff Kinney,Comedy,4.3
+Dune,Frank Herbert,Sci-Fi,4.5
+Good Omens,Terry Pratchett,Comedy,4.3
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,4.8
+IT,Stephen King,Horror,4.3
+Pride and Prejudice,Jane Austen,Romance,3.95
+The Ender's Game,Orson Scott Card,Sci-Fi,4.3
+The Fault in Our Stars,John Green,Drama,4.2
+The Notebook,Nicholas Sparks,Romance,4.2
+The School for Good and Evil,Soman Chainani,Fantasy,3.99
+The Secret Garden,Frances Hodgson Burnett,Children's novel,4.5
+The Shining,Stephen King,Horror,4.2
+The Metamorphosis,Franz Kafka,Horror,5.0
