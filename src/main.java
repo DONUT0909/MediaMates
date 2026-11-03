@@ -22,7 +22,8 @@ public class Main extends Application {
 
     public static void main(String[] args) {
 
-        launch();
+        //XQ - Uncomment this to test the JavaFX launcher
+        //launch();
 
         // Creates the review manager.
         ReviewManager reviewManager = new ReviewManager();
