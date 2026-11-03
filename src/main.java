@@ -8,12 +8,21 @@
  * For now, we're using it to test the review system.
  */
 
+package com.mediamates;
+
 import manager.ReviewManager;
 import model.Review;
+import javafx.application.Application;
+import javafx.scene.Scene;
+import javafx.scene.control.Label;
+import javafx.scene.layout.StackPane;
+import javafx.stage.Stage;
 
-public class Main {
+public class Main extends Application {
 
     public static void main(String[] args) {
+
+        launch();
 
         // Creates the review manager.
         ReviewManager reviewManager = new ReviewManager();
@@ -57,5 +66,14 @@ public class Main {
         System.out.println("\nAfter Deleting:");
         System.out.println("Number of Reviews: "
             + reviewManager.getAllReviews().size());
+    }
+
+    @Override
+    public void start(Stage stage) {
+        Label label = new Label("Hello, JavaFX in VS Code!");
+        Scene scene = new Scene(new StackPane(label), 400, 250);
+        stage.setTitle("JavaFX Demo");
+        stage.setScene(scene);
+        stage.show();
     }
 }
